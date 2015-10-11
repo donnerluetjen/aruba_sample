@@ -1,0 +1,2 @@
+---
+BUNDLE_WITHOUT: postgres:memcache:test:debug:development:assets
